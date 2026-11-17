@@ -39,7 +39,7 @@ Through conversations with the project lead and developers, who were themselves 
 
 > **The core insight:** the knowledge people need already exists inside the community. It just isn't connected.
 
-![Insights summary](images/02-insights.png)
+![Insights summary](images/INSIGHT%20SUMMARY.png)
 
 ---
 
@@ -71,12 +71,13 @@ These insights shaped three design principles:
 ### User flows
 I mapped how each user group would move through the app, so that students and alumni each get a journey that fits their needs.
 
-![User flows](images/03-user-flows.png)
+![User flows](images/FLOWS.png)
+![User flows](images/USER%20FLOW%202.png)
 
 ### Wireframes
 I started with low-fidelity wireframes in Figma to test structure and navigation before adding visual style.
 
-![Wireframes](images/04-wireframes.png)
+![Wireframes](images/ALUMNI%20WIREFRAMES.png)
 
 ### Key design decisions
 
@@ -93,19 +94,15 @@ I started with low-fidelity wireframes in Figma to test structure and navigation
 ## 6. The Final Design
 
 ### AI chat
-![AI chat](images/05-ai-chat.png)
+![AI chat](images/AI%20CHAT.png)
 
-### Matching and connections
-![Connections](images/06-connections.png)
+### Matching, Mentoring availability
+![Connections](images/MATCHES.png)
 
-### Aptitude and psychometric tests
-![Tests and career paths](images/07-tests.png)
+### HOME FEED, EVENTS AND SETTINGS
+![Tests and career paths](images/HOME%20FEED%20PLUS%20EVENTS.png)
+![Tests and career paths](images/SETTINGS%20FLOW.png)
 
-### Mentoring availability and private chat
-![Mentoring and chat](images/08-mentoring-chat.png)
-
-### Style guide
-![Style guide](images/09-style-guide.png)
 
 ---
 
