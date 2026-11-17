@@ -1,6 +1,6 @@
 # The Multiplier App: UX/UI Case Study
 
-![Multiplier app cover](images/01-cover.png)
+![Multiplier app cover](images/1.png)
 
 **A platform that keeps foundation alumni and current students connected, so every success story helps create the next one.**
 
